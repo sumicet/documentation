@@ -22,4 +22,4 @@ Downsides:
 + css links cannot be used
 + the iframe is sandboxed, so local storage, cookies, etc. are unaccessible
 
-Packages/technologies used: esbuild, unpkg.com, localforage, bulmaswatch, monaco-editor
+Packages/technologies used: esbuild, unpkg.com, localforage, bulmaswatch, monaco-editor, lerna
