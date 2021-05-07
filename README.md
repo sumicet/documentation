@@ -17,6 +17,13 @@ show({'name': 'John'});
 show(<h1>Hi!</h1>);
 ```
 
++ save the code to a local file
++ load code from a local file
+
+```html
+npm index.js serve --port 4005
+```
+
 Downsides:
 
 + css links cannot be used
