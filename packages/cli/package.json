@@ -1,6 +1,6 @@
 {
     "name": "jdocs",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "",
     "publishConfig": {
         "access": "public"
@@ -17,10 +17,10 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "@jdocs/local-client": "^1.0.0"
+        "@jdocs/local-client": "^1.0.1"
     },
     "devDependencies": {
-        "@jdocs/local-api": "^1.0.0",
+        "@jdocs/local-api": "^1.0.1",
         "@types/node": "^15.0.2",
         "commander": "^7.2.0",
         "esbuild": "0.8.26",
