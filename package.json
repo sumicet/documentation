@@ -8,6 +8,6 @@
         "start": "lerna run start --parallel"
     },
     "dependencies": {
-        "node": "^15.8.0"
+        "node": "^16.1.0"
     }
 }
